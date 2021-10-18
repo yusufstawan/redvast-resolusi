@@ -3,7 +3,11 @@ RENCANA KONTEN REDVAST
 - Javascript
   * ES6
   * Framework  Javascript
+   ^ Vue
+   ^ React
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
